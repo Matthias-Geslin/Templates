@@ -1,0 +1,55 @@
+/* font name */
+@font-face {
+  font-family: "#"
+  src: url("") format(""),
+        url("") format("");
+}
+
+/* @keyframes name */
+@keyframes name {}
+
+/* webkit keyframe name */
+@webkit-keyframes name{}
+
+/*  */
+html {}
+
+/*  */
+body {}
+
+/*  */
+header {}
+
+/*  */
+nav {}
+
+/*  */
+section {}
+
+/*  */
+main {}
+
+/*  */
+article {}
+
+/*  */
+aside {}
+
+/*  */
+footer {}
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* Media mobile screen */
+@media screen and (min-width: 479px) {}
+/* Media tablet screen */
+@media screen and (min-width: 959px) {}
+/* Media desktop screen */
+@media screen and (min-width: 1281px) {}
