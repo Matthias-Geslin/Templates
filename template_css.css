@@ -9,7 +9,7 @@
 @keyframes name {}
 
 /* webkit keyframe name */
-@webkit-keyframes name{}
+@-webkit-keyframes name{}
 
 /*  */
 html {}
